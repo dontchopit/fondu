@@ -4,8 +4,8 @@ pragma solidity ^0.5.8;
 import "../node_modules/openzeppelin-solidity/contracts/token/ERC20/ERC20Mintable.sol";
 
 // Main token smart contract
-contract {{symbol}}Token is ERC20Mintable {
-  string public constant name = "{{name}}";
-  string public constant symbol = "{{symbol}}";
-  uint8 public constant decimals = {{decimals}};
+contract {{28T}}Token is ERC20Mintable {
+  string public constant name = "{{28Tokens}}";
+  string public constant symbol = "{{28T}}";
+  uint8 public constant decimals = {{18}};
 }
